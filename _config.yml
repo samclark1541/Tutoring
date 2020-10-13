@@ -1,8 +1,7 @@
 # basic options
 title: Sam Clark Tutoring
 author: Sam Clark
-email: samclark1541@outlook.com
-description: A wonderful site
+description: A horrible site
 
 # Build settings
 markdown: kramdown
