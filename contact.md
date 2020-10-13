@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+
 ---
 
 #### Email: samclark1541@outlook.com
