@@ -1,1 +1,9 @@
-theme: jekyll-theme-slate
+# basic options
+title: Sam Clark Tutoring
+author: Sam Clark
+email: samclark1541@outlook.com
+description: A wonderful site
+
+# Build settings
+markdown: kramdown
+theme: minima
