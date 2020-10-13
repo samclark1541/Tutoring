@@ -3,13 +3,10 @@ layout: page
 title: Contact
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+#Email: samclark1541@outlook.com
 
-Reasons:
-- its great.
-- its a test.
+Contact me with email enqiries at any time.
 
-## Other thoughts
+#Telephone: 07734088165
 
-This is great.
+Please reserve telephone enquiries to between 9 am and 5 pm, Monday to Sunday.
